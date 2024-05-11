@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">辅助输入</string>
+    <string name="accessibility_service_description">辅助输入服务</string>
+</resources>
